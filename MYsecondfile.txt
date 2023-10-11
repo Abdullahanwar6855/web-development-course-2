@@ -1,1 +1,15 @@
 this is my second file
+
+git clone url
+git cd repos name
+
+git code .
+creat a file with some text
+
+git add .
+git commit -m "type your commit msg"
+git push
+
+
+
+
